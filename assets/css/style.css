@@ -1,0 +1,148 @@
+body {
+  background-color: #647973;
+}
+header {
+  background-color: #314247;
+  display: flex;
+  justify-content: center;
+}
+nav {
+  width: 30%;
+  height: 150px;
+}
+ul {
+  display: flex;
+  list-style: none;
+}
+.menu {
+  margin: 5px;
+  padding: 12px;
+  border: solid 2px #647973;
+  border-radius: 8px;
+  text-align: center #cca4a6;
+  background-color: #647973;
+  color: #f7f7f7;
+}
+a:link {
+  text-decoration: none;
+  color: #f7f7f7;
+}
+a:visited {
+  text-decoration: none;
+  color: #f7f7f7;
+}
+a:hover {
+  text-decoration: none;
+  color: #f7f7f7;
+}
+a:active {
+  text-decoration: none;
+  color: #f7f7f7;
+}
+.aboutus {
+  height: 500px;
+}
+.imgflex {
+  display: flex;
+}
+h1 {
+  color: #cca4a6;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  margin-left: 100px;
+  margin-top: 100px;
+}
+p {
+  color: #f7f7f7;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  margin-top: 50px;
+  margin-left: 100px;
+}
+.img1 {
+  float: right;
+  margin-left: 300px;
+  margin-top: 30px;
+  width: 500px;
+  height: 350px;
+  border-radius: 5px;
+}
+.photo {
+  height: 500px;
+}
+h2 {
+  color: #cca4a6;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  margin-left: 100px;
+  margin-top: 100px;
+}
+.contactus {
+  height: 500px;
+}
+h3 {
+  color: #cca4a6;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  margin-left: 100px;
+  margin-top: 100px;
+}
+input {
+  display: flex;
+  margin-left: 100px;
+}
+.name {
+  width: 300px;
+  height: 25px;
+  margin-bottom: 10px;
+  border-radius: 4px;
+  background-color: #eed1d2;
+}
+.email {
+  width: 300px;
+  height: 25px;
+  margin-bottom: 10px;
+  border-radius: 4px;
+  background-color: #eed1d2;
+}
+.Message {
+  width: 300px;
+  height: 100px;
+  margin-bottom: 10px;
+  border-radius: 4px;
+  background-color: #eed1d2;
+}
+.submit {
+  border-radius: 4px;
+  background-color: #eed1d2;
+}
+.social {
+  color: #cca4a6;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  margin-right: 500px;
+  margin-top: 100px;
+}
+.iconsul {
+  display: inline;
+  margin-right: 60px;
+}
+.fa {
+  padding: 10px;
+  margin: 5px;
+  text-align: center;
+  font-size: 25px;
+  width: 30px;
+  border-radius: 6px;
+  background: #314247;
+  color: #647973;
+}
+.icons li {
+  float: inline;
+}
+.icontext {
+  color: #cca4a6;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+footer {
+  background-color: #314247;
+  height: 100px;
+}
+.copyright {
+  padding: 40px;
+}
