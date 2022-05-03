@@ -19,9 +19,8 @@ ul {
   padding: 12px;
   border: solid 2px #647973;
   border-radius: 8px;
-  text-align: center #cca4a6;
+  text-align: center;
   background-color: #647973;
-  color: #f7f7f7;
 }
 a:link, a:visited, a:hover, a:active {
   text-decoration: none;
