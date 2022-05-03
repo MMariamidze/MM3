@@ -23,29 +23,17 @@ ul {
   background-color: #647973;
   color: #f7f7f7;
 }
-a:link {
+a:link, a:visited, a:hover, a:active {
   text-decoration: none;
   color: #f7f7f7;
 }
-a:visited {
-  text-decoration: none;
-  color: #f7f7f7;
-}
-a:hover {
-  text-decoration: none;
-  color: #f7f7f7;
-}
-a:active {
-  text-decoration: none;
-  color: #f7f7f7;
-}
-.aboutus {
+.aboutus, .photo, .contactus {
   height: 500px;
 }
 .imgflex {
   display: flex;
 }
-h1 {
+h1, h2, h3 {
   color: #cca4a6;
   font-family: Georgia, "Times New Roman", Times, serif;
   margin-left: 100px;
@@ -65,41 +53,16 @@ p {
   height: 350px;
   border-radius: 5px;
 }
-.photo {
-  height: 500px;
-}
-h2 {
-  color: #cca4a6;
-  font-family: Georgia, "Times New Roman", Times, serif;
-  margin-left: 100px;
-  margin-top: 100px;
-}
 .img2{
   width: 500px;
   height: 350px;
   border-radius: 5px;
 }
-.contactus {
-  height: 500px;
-}
-h3 {
-  color: #cca4a6;
-  font-family: Georgia, "Times New Roman", Times, serif;
-  margin-left: 100px;
-  margin-top: 100px;
-}
 input {
   display: flex;
   margin-left: 100px;
 }
-.name {
-  width: 300px;
-  height: 25px;
-  margin-bottom: 10px;
-  border-radius: 4px;
-  background-color: #eed1d2;
-}
-.email {
+.name, .email {
   width: 300px;
   height: 25px;
   margin-bottom: 10px;
